@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="86156836-73a4-47d8-a45e-e475e3d34b29" configVersion="032f695b8df32b40a5db876eb3b59e7c00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницыИзмерения" id="81c2a155-9503-4687-9e7f-007ad1c1f184"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="a379ecf6-2a20-4809-84f0-5a240018e418"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="524567ea-36ba-4bc4-a828-53f84cddf48b" configVersion="66ff59f4fc41fa44b73e88d69f1c361000000000"/>
+		<Metadata name="Enum.ЕдиницыИзмерения" id="17d2dee8-5b8a-4e1a-8d4d-d314d8170f57" configVersion="069a1dea41efde448d778fddd54d459c00000000">
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.шт" id="111be62e-9f18-4b2f-b13c-5249721bddef"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.кг" id="136aaa51-12de-482a-a1c2-4924a18112cc"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.упаковка" id="272a96c4-2150-4e8a-87df-866c7a46cfaa"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.л" id="e4c38bfa-b409-4804-b337-44774d728944"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="9ba9ab93-fb58-4032-a7c1-9692dd720595" configVersion="8f8ff71916aa994994f7945f81d7ab2d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
