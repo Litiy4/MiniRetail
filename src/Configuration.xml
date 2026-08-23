@@ -246,6 +246,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Магазины</Catalog>
 			<Enum>ЕдиницыИзмерения</Enum>
 		</ChildObjects>
 	</Configuration>

@@ -1,11 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="82f7eb24-6ac5-47c5-a378-b3cfe07ad066" configVersion="4572b2c0d727c0409e41003947564e8c00000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.Телефон" id="2f585262-1379-4935-a39e-a37f042699c6"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="fa628654-6cac-4c50-91ce-44b315206935"/>
+		</Metadata>
+		<Metadata name="Catalog.Магазины" id="b832e427-e952-421e-b39d-6e88e0cda7ae" configVersion="8c66ecf149cdc540bbb29658b577004500000000">
+			<Metadata name="Catalog.Магазины.Attribute.Адрес" id="326130ec-f0d9-42cd-8aab-7020dbd6e87f"/>
+			<Metadata name="Catalog.Магазины.Attribute.Склад" id="8a7fce5e-6c3a-4409-a909-4d1ba7dcdd57"/>
+		</Metadata>
 		<Metadata name="Catalog.Номенклатура" id="86156836-73a4-47d8-a45e-e475e3d34b29" configVersion="032f695b8df32b40a5db876eb3b59e7c00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницыИзмерения" id="81c2a155-9503-4687-9e7f-007ad1c1f184"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="a379ecf6-2a20-4809-84f0-5a240018e418"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="524567ea-36ba-4bc4-a828-53f84cddf48b" configVersion="66ff59f4fc41fa44b73e88d69f1c361000000000"/>
+		<Metadata name="Catalog.Склады" id="f8a00e7c-052a-431e-b52c-250646a076c6" configVersion="5d24541ae86aa541a2010826b07c069900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="524567ea-36ba-4bc4-a828-53f84cddf48b" configVersion="21c1b319feb2394293851b1bdc684fda00000000"/>
 		<Metadata name="Enum.ЕдиницыИзмерения" id="17d2dee8-5b8a-4e1a-8d4d-d314d8170f57" configVersion="069a1dea41efde448d778fddd54d459c00000000">
 			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.шт" id="111be62e-9f18-4b2f-b13c-5249721bddef"/>
 			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.кг" id="136aaa51-12de-482a-a1c2-4924a18112cc"/>
